@@ -1,6 +1,6 @@
+![CSU Phd Candidate](https://www.engr.colostate.edu/me/wp-content/uploads/2020/01/Mech-EN-CSU-1-C357.png)
 # Ky Tanner
 ### CSU Phd Candidate
-![CSU Phd Candidate](https://www.engr.colostate.edu/me/wp-content/uploads/2020/01/Mech-EN-CSU-1-C357.png)
 
 I love exploring large data sets with clean, illuminating visualizations and statistical models, particularly in the spaces of air quality, meteorology, and clean energy
 
