@@ -9,7 +9,3 @@ Skills: R, Python, C++, Linux, Matlab, HTML
 - 🔭 I’m currently working on an NIH funded project in rural Rwanda, examining interactions between personal air quality exposure, ambient pollutant concentrations, demographics, and spacio-temporal effects associated with the transition from traditional to cleaner energy. 
 - 🌱 I’m currently learning advanced statistical modeling, machine learning models, and data visualization techniques. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ky-Tanner)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ky-Tanner&show_icons=true&count_private=true)  
-
